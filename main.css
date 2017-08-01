@@ -1,6 +1,7 @@
 #header {
     background-color: #4267b2;
     color: white;
+	height: 40px;
 }
 
 }
@@ -58,4 +59,28 @@
 }
 .comment {
 	margin: 0;
+}
+.media-object{
+	height:30px;
+	width: 30px;
+}
+
+.plogo{
+	position: relative;
+	left:15px;
+	top:-7px;
+	height: 30px;
+}
+
+.btn {
+	position: relative;
+	right: 12px;
+	border-left: none;
+}
+.form-control {
+	width: 400px!important;
+}
+.dp {
+	height: 32px;
+	width: 32px;
 }
